@@ -1,1 +1,1 @@
-# GameScore_Godot_Example
+# Godot <- GameScoreSDK Example
